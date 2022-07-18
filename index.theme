@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Mint-Y-Dark-New
+Comment=A customized darker theme with bright green highlights, based on Mint-Y-Dark
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Mint-Y-Dark-New
+MetacityTheme=Mint-Y-Dark
+IconTheme=Mint-Y
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
